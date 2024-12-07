@@ -1,4 +1,4 @@
-# AI Agent for Digital Marketing Agency
+# AI Agent Customer Maps
 
 This repository contains the code and resources for developing an AI-powered agent tailored for retail stores and services. The agent leverages **vector search** and **vector databases** to manage and retrieve diverse retail store information, including:
 
