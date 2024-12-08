@@ -1,0 +1,5 @@
+video_title,gcs_path
+Marks_Jeans,gs://umair_bucket_retail_1/Marks_Jeans.mp4
+Marks_Jacket,gs://umair_bucket_retail_1/marks_jacket.mp4
+Outdoors_Commercial,gs://umair_bucket_retail_1/outdoors_commercial.mp4
+Safety_and_Health,gs://umair_bucket_retail_1/Safety_and_Health_Week_Mark_Commercial.mp4
