@@ -1,0 +1,180 @@
+Mark’s Commercial    | 1
+Logging in: https://www.markscommercial.com
+Click the Login button
+Enter E-mail 
+address or the user 
+name provided
+Enter Password
+Mark’s Commercial    | 2
+Home Page
+My Account 
+Manage your profile details and password
+Order History
+Look up past and present orders 
+Place An Order
+View catalogues and place orders
+Homepage
+Important information and linksMark’s Commercial    | 3
+Placing an order
+After clicking the Place 
+An Order button, select a 
+catalogue to view 
+products
+Click on a 
+product image 
+or description 
+to view 
+product details 
+and add to the 
+cart.
+Mark’s Commercial    | 4
+Placing an order
+Select the Colour, Size and 
+Embellishment (if applicable)
+Once you have made selections for Qty, 
+Colour, Size & Embellishment click Add 
+to cart to place an item in the cart.
+Click View cart to 
+review/modify the 
+cart OR click 
+Checkout to move 
+directly to 
+checkout 
+Mark’s Commercial    | 5
+Cart Review
+To remove an item 
+from the cart.
+Click to change 
+quantity.
+Save your cart as a 
+template for quick 
+re-ordering in the 
+future
+When you have confirmed the 
+items and sizes in the cart, click 
+Proceed to checkout .
+Cart details and 
+order total
+To empty the cart.Mark’s Commercial    | 6
+Checkout
+Choose  
+where your 
+order is 
+delivered.
+When you have confirmed 
+delivery address, click Next.Mark’s Commercial    | 7
+Checkout –Charge to Business Account
+For purchases being 
+invoiced to a corporate 
+charge account, or made on 
+an entitlement program, 
+the payment method will be 
+On Account .
+Reference or PO 
+Number for 
+invoicing.Mark’s Commercial    | 8
+Checkout –Credit Card required
+For purchases requiring a 
+credit card payment, or 
+purchases made in  excess 
+of  an entitlement amount, 
+the payment method will be 
+Credit Card .
+All credit card 
+information will 
+be securely 
+stored for use 
+on future 
+orders, by CTFS.Mark’s Commercial    | 9
+Checkout
+Select Go to your 
+order page to 
+view submitted 
+order details.
+Order Number
+Order Status
+Delivery & Billing Info
+Product details and 
+line statusMark’s Commercial    | 10
+Returns, Cancellations, Inquiries
+•The Mark’s Commercial Return Policy and Return Form can be found on 
+the Returns page located in the Footer.
+Mark’s Commercial    | 11
+Administrative Features: User Proxy
+To place an order on behalf of 
+another employee, click User Proxy 
+in the drop down menu at the top 
+right of your screen.
+Click Select for the 
+employee you wish to 
+shop on behalf of.
+Stop representing 
+employee, or choose to 
+order for another from 
+the same menu.
+Mark’s Commercial    | 12
+Administrative Features: Authorizations
+To review orders 
+pending approval, 
+select My account.
+After selecting Authorizations 
+on the left hand menu, click 
+View Details to view review an 
+order and approve or reject . 
+An orange circle indicates a 
+Pending approval.
+Mark’s Commercial    | 13
+Administrative Features: Managing Sub -accounts
+To manage 
+employee sub -
+accounts, select My 
+account.
+After selecting 
+Manage sub -
+accounts on the left 
+hand menu, click the 
+pencil icon to view 
+employee accounts 
+and make edits
+Click to add a new 
+sub-account .
+Mark’s Commercial    | 14
+Administrative Features: Managing Sub -accounts
+Update Manager
+Email Address/Login
+Uncheck to Inactive 
+resigned/terminated 
+employees
+Add a CC email for 
+order notifications
+Add/Edit Delivery 
+AddressMark’s Commercial    | 15
+Administrative Features: Adding New Sub -accounts
+Enter employee First and Last Name
+Select for employees that will 
+require approval
+Choose the correct 
+Function/Uniform Class for the new 
+account to ensure the appropriate 
+catalogue is available 
+Add a CC email for order 
+notifications
+Enter Email address which will be 
+used for login and must be unique
+Enter the employee’s phone 
+number
+Enter the employee’s delivery 
+addressMark’s Commercial    | 16
+Administrative Features: Updating Entitlement
+Select Update entitlement points
+to add or adjust entitlement on the 
+Manage Sub -accounts screen
+To adjust entitlement for existing 
+employees use the 
+increase/decrease fields to make 
+balance adjustments
+To adjust entitlement for a new 
+employees, first add the 
+entitlement program and then use 
+the increase/decrease fields to 
+make balance adjustments
